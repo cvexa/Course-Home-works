@@ -1,0 +1,26 @@
+<?php
+header('content-type:text/html; charset=utf-8');
+session_start();
+?>
+
+<!html>
+<head>
+<title>Task5</title>
+<meta charset="UTF-8">
+<style type="text/css">
+#advice{
+	color: red;
+}
+
+</style>
+</head>
+<body>
+
+	<form action="domashno_task5.php" method="post">
+		<p>Програма, която изчислява факториел на числото n, Моля въведете число.</p>
+    <input type="number" name="number" maxlength="4" placeholder="Въведи число!">
+    <input type="submit" name="submit" value="Изчисли !n">
+	</form>
+	<p><span id="advice">/Забележка: Моля имайте предвид че с големи числа, компютъра може да забие/</span><p>
+</body>
+</html>
