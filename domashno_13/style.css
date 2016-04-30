@@ -1,0 +1,244 @@
+body,html,div{
+	margin:0;
+	padding: 0;
+}
+body{
+	font-size: 62.5%;
+}
+#top{
+	border:0px solid;
+	position:absolute;
+	margin:2%;
+	width:1300px;
+	height:715px;
+	background-color: #ffc038;
+}
+#start{
+    position:absolute;
+	margin-top: 90px;
+	border:0px solid;
+}
+/*#container{
+	background-color: red;
+}*/
+a{
+	color:inherit;
+	text-decoration: none;
+}
+nav{
+
+	border:0px solid;
+	position:absolute;
+	margin-top:90px;
+	margin-left: 390px;
+    font: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+    padding-left: 0px;
+	font-weight: bold;
+	/*background-color: red;*/
+	display: inline-block;
+	color:#595145;
+	font-size:14px;
+}
+ul{
+	padding:0;
+	margin: 0;
+	font-size:14px;
+}
+li{
+	padding-left:40px;
+	font-weight: ;
+	font-size:14px;
+	
+	color:none;
+	text-decoration: none;
+	display: inline-block;
+}
+#logo1{
+   position:relative;
+	margin-top:0px;
+	margin-left: 150px;
+    padding:10px;
+	width:120px;
+	height:40px;
+	border:4px solid #fff200;
+	color:white;
+	font: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-size: 26px;
+}
+#logo2{
+	position:relative;
+	font: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	color:#464646;
+	font-size: 26px;
+	padding-left: 0px;
+}
+h3{
+  font-size: 42px;
+}
+#section1{
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	margin-left: 150px;
+	width:405px;
+	height:470px;
+	margin-top: 200px;
+	position:relative;
+	color:white;
+	font-size: 16px;
+}
+#img1{
+	background-image: url(img/top_pic.gif);
+	position:absolute;
+	margin-top: 100px;
+	width:510px;
+	height:340px;
+	margin-left:500px;
+}
+#img2{
+	background-image: url(img/pointer1.gif);
+	position:absolute;
+	margin-top: 0px;
+	width:358px;
+	height:75px;
+	margin-left:400px;
+}
+#img3{
+	background-image: url(img/pointer2.gif);
+	position:absolute;
+	margin-top: 20px;
+	width:35px;
+	height:30px;
+	margin-left:750px;
+}
+#view{
+	width:150px;
+	height:150px;
+	position:relative;
+	background-color: #464646;
+	font-size: 16px;
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	padding-top:15px;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+#what-we-do{
+
+	border: 1px solid;
+	position:relative;
+	height:1680px;
+	font-size: 16px;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	line-height:20px;
+}
+#how_we_work{
+	background-image: url(img/how_we_work_bg.gif);
+	border: 1px solid;
+	position:relative;
+	height:1680px;
+	font-size: 16px;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	line-height:20px;
+}
+#special{
+	border:1px solid;
+	position:absolute;
+	width:1300px;
+	
+	background-color: white;
+	margin-top: 753px;
+	margin-left: 2%;
+}
+#footer{
+	margin-left: 2%;
+	margin-top: 7515px;
+	border:1px solid;
+	position:absolute;
+	width:1300px;
+	color:#FFF;
+	font-size: 12px;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	line-height:26px;
+	background-color: #363636;
+	height:410px;
+}
+#our_features{
+	border: 1px solid;
+	position:relative;
+	height:1680px;
+	font-size: 16px;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	line-height:20px;
+}
+#our_pachages{
+	border: 1px solid;
+	position:relative;
+	height:1680px;
+	font-size: 16px;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	line-height:20px;
+}
+#title{
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 90px;
+	padding-right: 90px;
+	margin-top: 140px;
+	width:150px;
+	height:25px;
+	background-color: #464646;
+}
+#title3,#title4,#title5{
+	margin-left: 485px;
+	position:absolute;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 90px;
+	padding-right: 90px;
+	margin-top: 140px;
+	width:150px;
+	height:25px;
+	background-color: #464646;
+}
+#first,#second,#third{
+	width:470px;
+	position:relative;
+}
+#first{
+	margin-left: 665px;
+	margin-top: 145px;
+}
+#second{
+	margin-left: 185px;
+	margin-top: 210px;
+}
+#third{
+	margin-left: 665px;
+	margin-top: 210px;
+}
+#img_work{
+	margin-top: 500px;
+	margin-left: 115px;
+}
+#tripple{
+	margin-top:200px;
+	position:relative;
+}
+#column{
+	
+
+	width:320px;
+	height:665px;
+	background-color: red;
+}
+#column2{
+	margin-left: 500px;
+	width:320px;
+	height:665px;
+	background-color: red;
+}
+#column3{
+	width:320px;
+	height:665px;
+	background-color: red;
+}
